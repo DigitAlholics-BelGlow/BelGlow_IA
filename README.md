@@ -9,4 +9,7 @@ Para su despliegue se empleó firebase:
 4) iniciar hosting: firebase init hosting
 5) desplegar: firebase deploy
 
+Enlace de la app: 
+Dimensiones recomendadas: 
+
 -DigitAlholics Team
