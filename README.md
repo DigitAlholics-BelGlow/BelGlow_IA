@@ -13,3 +13,4 @@ Enlace de la app:
 Dimensiones recomendadas: 
 
 -DigitAlholics Team
+![image](https://github.com/user-attachments/assets/a42465ae-80c5-4fe4-be23-4b0850de4a8e)
